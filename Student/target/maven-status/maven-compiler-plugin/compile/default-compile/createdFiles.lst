@@ -1,0 +1,5 @@
+com\example\Student\controller\StudentController.class
+com\example\Student\entity\Student.class
+com\example\Student\exception\RecordNotFoundException.class
+com\example\Student\StudentApplication.class
+com\example\Student\repository\StudentRepository.class
